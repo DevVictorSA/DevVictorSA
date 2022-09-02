@@ -6,8 +6,8 @@
 📫 Contact me on my email, victor_brazil@live.com ...
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevVictorSA&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevVictorSA&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevVictorSA&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevVictorSA&layout=compact&theme=tokyonight"/>
 </div>
 
 
